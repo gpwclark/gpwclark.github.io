@@ -7,8 +7,8 @@ layout: main
     <div id="about">
         <h1>About</h1>
         <ul id="top-social">
+            <li><a href="http://www.github.com/gpwclark/" class="github">GitHub</a></li>
             <li><a href="http://www.linkedin.com/pub/george-price-clark/3a/aa2/705/" class="linkedin">LinkedIn</a></li>
-                        <li><a href="https://twitter.com/Pr_Clarck_ice" class="twitter">Twitter</a></li>
         </ul>
         <div class="top-divider"></div>
         <div class="content">
@@ -26,30 +26,6 @@ layout: main
     <div class="bottom-divider"></div>
     </div>
 <!--End About Section-->
-
-<!--Begin Experience Section-->
-    <div id="experience">
-        <h1>Experience</h1>
-        <div class="top-divider"></div>
-        <div class="content">
-            <div class="col">
-            <h2>Description of Work</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam risus, dignissim pharetra sagittis sed, adipiscing nec felis. Maecenas non nulla eget ligula $
-            </div>
-
-            <div class="col col-mid">
-            <h2>Description of Work</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam risus, dignissim pharetra sagittis sed, adipiscing nec felis. Maecenas non nulla eget ligula $
-            </div>
-
-            <div class="col">
-            <h2>Description of Work</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam risus, dignissim pharetra sagittis sed, adipiscing nec felis. Maecenas non nulla eget ligula $
-            </div>
-        </div>
-        <div class="bottom-divider"></div>
-    </div>
-<!--End Experience Section-->
 
 <!--Begin Work Section -->
     <div id="work">
@@ -88,6 +64,20 @@ layout: main
         <div class="bottom-divider"></div>
     </div>
 <!-- End Work Section-->
+
+
+<!--Begin Resume Section-->
+    <div id="experience" >
+
+        <h1>Resume</h1>
+        <div class="top-divider"></div>
+        <div class="content">
+        {% include resume.html %}
+        </div>
+        <div class="bottom-divider"></div>
+    </div>
+<!--End Resume Section-->
+
 <!--Begin Connect Section-->
     <div id="connect">
         <h1>Connect</h1>
