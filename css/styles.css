@@ -55,6 +55,13 @@ a img{border:0px;}
 #about h1{float:left;}
 #about #top-social{float:right; padding-top:62px;}
 #about #top-social li{float:left; list-style:none; margin-left:10px;}
+#about #top-social .uant{
+	text-indent:-9999px; 
+	display:block; 
+	width:26px; 
+	height:26px; 
+	background:url(../images/sm-uant-icon.png) no-repeat;
+}
 #about #top-social .github{
 	text-indent:-9999px; 
 	display:block; 
@@ -178,12 +185,8 @@ a img{border:0px;}
 	height:26px;
 	margin-right:10px;
 }
-#connect #social-footer #sm-links li a.facebook{background:url(../images/sm-facebook-icon.png) no-repeat;}
-#connect #social-footer #sm-links li a.twitter{background:url(../images/sm-twitter-icon.png) no-repeat; width:31px;}
-#connect #social-footer #sm-links li a.dribble{background:url(../images/sm-dribble-icon.png) no-repeat;}
-#connect #social-footer #sm-links li a.vimeo{background:url(../images/sm-vimeo-icon.png) no-repeat; width:27px;}
-#connect #social-footer #sm-links li a.google{background:url(../images/sm-google-icon.png) no-repeat;}
-#connect #social-footer #sm-links li a.youtube{background:url(../images/sm-youtube-icon.png) no-repeat; width:28px;}
+#connect #social-footer #sm-links li a.github{background:url(../images/sm-github-icon.png) no-repeat;}
+#connect #social-footer #sm-links li a.uant{background:url(../images/sm-uant-icon.png) no-repeat;}
 #connect #social-footer #sm-links li a.linkedin{background:url(../images/sm-linkedin-icon.png) no-repeat;}
 
 /****************************************************/
