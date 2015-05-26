@@ -11,8 +11,11 @@ George Price W. Clark
 Education
 ---------
 
-2010-2015
-:   **BA, Computer Science and Economics**; The University of North Carolina at Chapel Hill
+2007-2010
+:   **BA, Computer Science and Economics**; University of North Carolina at Chapel Hill
+
+    *GPA: 3.75*
+
 Experience
 ----------
 
