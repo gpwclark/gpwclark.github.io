@@ -1,29 +1,18 @@
-Johnny Coder
-============
+George Price W. Clark
+=====================
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  I am an aspiring developer with a growing list of projects
+>  and work experience.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
+2010-2015
+:   **BA, Computer Science and Economics**; The University of North Carolina at Chapel Hill
 Experience
 ----------
 
