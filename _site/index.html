@@ -39,7 +39,6 @@
         <li><a href="http://gpwclark.github.io/blog/index.html">Blog</a></li>
         <li><a href="http://gpwclark.github.io#work">Work</a></li>
         <li><a href="http://gpwclark.github.io/resume/index.html">Resume</a></li>
-        <li><a href="http://gpwclark.github.io#connect">Connect</a></li>
     </ul>
 </div>
 
@@ -58,16 +57,13 @@
         </ul>
         <div class="top-divider"></div>
         <div class="content">
-                <img src="http://gpwclark.github.io/images/me_BluePages.png" />
-            <h2>My Name is Price Clark and I'm dying</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam risus, dignissim pharetra sagittis sed, adipiscing nec felis. Maecenas non nulla eget ligula $
-        <!--    <ul id="service-icons">
-                <li class="services-design">Design</li>
-                <li class="services-mobile">Mobile</li>
-                <li class="services-film">Film</li>
-                <li class="services-photo">Photo</li>
-            </ul>
-                -->
+        <img src="http://gpwclark.github.io/images/me_BluePages.png" />
+        <h2>My Name is Price Clark and I'm a developer</h2>
+            <p>
+            I'm an open-source enthusiast currently in school. I'm very interested in building things and learning new programming languages and tools.
+            On my own time I work on a variety of projects with my partner Steven Love under the guise <a href="http://www.uofantarctica.com">The University of Antarctica</a>.
+            Check out the site or <a href="https://github.com/university-of-antarctica">check us out on GitHub.</a>
+            </p>
         </div>
     <div class="bottom-divider"></div>
     </div>
@@ -127,6 +123,98 @@
   <title></title>
   <style type="text/css">code{white-space: pre;}</style>
   <style type="text/css">
+  /*
+   * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+   *
+   * CSS for making a resume with pandoc. Inspired by moderncv.
+   *
+   * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+   * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+   */
+  
+  /* Whole document */
+  body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      width: 800px;
+      margin: auto;
+      background: #FFFFFF;
+      padding: 10px 10px 10px 10px;
+  }
+  
+  /* Title of the resume */
+  h1 {
+      font-size: 55px;
+      color: #757575;
+      text-align:center;
+      margin-bottom:15px;
+  }
+  h1:hover {
+      background-color: #757575;
+      color: #FFFFFF;
+      text-shadow: 1px 1px 1px #333;
+  }
+  
+  /* Titles of categories */
+  h2 {
+      /* This is called "sectioncolor" in the ConTeXt stylesheet. */
+      color: #397249;
+  }
+  /* There is a bar just before each category */
+  h2:before {
+      content: "";
+      display: inline-block;
+      margin-right:1%;
+      width: 16%;
+      height: 10px;
+      /* This is called "rulecolor" in the ConTeXt stylesheet. */
+      background-color: #9CB770;
+  }
+  h2:hover {
+      background-color: #397249;
+      color: #FFFFFF;
+      text-shadow: 1px 1px 1px #333;
+  }
+  
+  /* Definitions */
+  dt {
+      float: left;
+      clear: left;
+      width: 17%;
+      /*font-weight: bold;*/
+  }
+  dd {
+      margin-left: 17%;
+  }
+  p {
+      margin-top:0;
+      margin-bottom:7px;
+  }
+  
+  /* Blockquotes */
+  blockquote {
+      text-align: center
+  }
+  
+  /* Links */
+  a {
+      text-decoration: none;
+      color: #397249;
+  }
+  a:hover, a:active {
+      background-color: #397249;
+      color: #FFFFFF;
+      text-decoration: none;
+      text-shadow: 1px 1px 1px #333;
+  }
+  
+  /* Horizontal separators */
+  hr {
+      color: #A6A6A6;
+  }
+  
+  table {
+      width: 100%;
+  }
   </style>
 </head>
 <body>
@@ -205,39 +293,6 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
         <div class="bottom-divider"></div>
     </div>
 <!--End Resume Section-->
-
-<!--Begin Connect Section-->
-    <div id="connect">
-        <h1>Connect</h1>
-        <div class="top-divider"></div>
-                <div class="content">
-                <div id="form">
-                        <form action="#"> 
-                        <span>Name</span>
-                        <input type="text" name="name" class="name" />
-                        <span>Email</span>
-                        <input type="text" name="email" class="email"/>
-                        <span>Message</span>
-                        <textarea class="message"></textarea>
-                        <input type="submit" name="submite" value="Submit" class="submit">
-                    </form>
-                </div>
-                <div id="social-footer">
-                        <h2>Follow Me:</h2>
-                    <p>
-                    Check out my linked in or github acount. Also see the <a href="http://github.com/university-of-antarctica">University of Antarctica</a> GitHub page, where most of my development occurs.
-                    </p>
-                    <ul id="sm-links">
-                        <li><a href="http://www.github.com/gpwclark" class="github">GitHub</a></li>
-                        <li><a href="http://www.github.com/university-of-antarctica" class="uant">university-of-antarctica</a></li>
-                        <li><a href="http://www.linkedin.com/pub/george-price-clark/3a/aa2/705/" class="linkedin">LinkedIn</a></li>
-                    </ul>
-                </div>
-            </div>
-    </div>
-<!--End Connect Section-->
-
-
  <!-- The JavaScript -->
         <script type="text/javascript">
                 $(function() {
