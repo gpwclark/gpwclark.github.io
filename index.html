@@ -27,20 +27,41 @@ layout: main
 
 <!--Begin Work Section -->
     <div id="work">
+        <a href="{{  site.url  }}/blog/index.html" ><h1>Blog</h1></a>
+        <div class="top-divider"></div>
+          <div class="content">
+          <div class="col col-mid">
+
+            <ul class="post-list">
+              {% for post in site.posts limit:3 %}
+                <li>
+                  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                  <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+                  </h2>
+                </li>
+              {% endfor %}
+            </ul>
+
+                </div>
+            </div>
+        <div class="bottom-divider"></div>
+    </div>
+<!-- End Work Section-->
+
+
+
+<!--Begin Work Section -->
+    <div id="work">
     <!--
         <h1>Work</h1>
         <div class="top-divider"></div>
           <div class="content">
           <div class="col col-mid">
                     <ul>
-                    <li><p>GUIDE TO MY WORK?</p></li>
-                    <li><a href="">Blog</a></li>
                     <li><a href="">My Internal Documentation</a></li>
                     <li><a href="">My Reference Materials</a></li>
-                    <li><a href="">Pettr</a></li>
-                    <li><a href="">JazzHub Pettr</a></li>
-                    <li><a href="">JazzHub Dev</a></li>
-                    <li><a href="">Orion Workspace</a></li>
                     </ul>
                 </div>
             </div>
@@ -53,7 +74,7 @@ layout: main
 <!--Begin Resume Section-->
     <div id="experience" >
 
-        <h1>Resume</h1>
+        <a href="{{  site.url  }}/resume/index.html" ><h1>Resume</h1></a>
         <div class="top-divider"></div>
         <div class="content">
         {% include resume.html %}
