@@ -3,8 +3,6 @@ body{
 	margin:0px;
 }
 #container{
-	width:950px;
-	margin:0px auto 300px auto;
 	background:url(../images/body-bg.png);
 	overflow:auto;
 	padding-bottom:100px;
@@ -13,38 +11,10 @@ body{
   word-wrap: break-word;
 }
 
-/****************************************************/
-/* HEADER */
-/****************************************************/
-
-#header{
-	width:864px;
-	height:115px;
-	background-color:#222222;
-	padding:0px 43px;
-	position: fixed;
-	top:0px;
-	left:50%;
-	margin: 0 0 0 -475px;
-}
-#header #logo{
-	padding-bottom:20px;
-	float:left;
-	width: 50%;
-}
-#header #main-menu{float:right; padding-top:45px;}
-#header #main-menu li{
-	float:left;
-	list-style:none;
-	margin-left:27px;
-	font: 400 16px/20px 'Bree Serif', Georgia, serif;
-}
-
 /****************************************************
 /* ABOUT SECTION */
 /****************************************************/
-
-#about{margin:0px 43px; padding-top:115px;}
+#about .col{width: 235px; float: left;}
 #about #top-social{float:right; padding-top:62px;}
 #about #top-social li{float:left; list-style:none; margin-left:10px;}
 #about #top-social .uant{

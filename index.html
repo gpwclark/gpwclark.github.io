@@ -13,7 +13,7 @@ layout: main
         </ul>
         <div class="top-divider"></div>
         <div class="content">
-        <img src="{{  site.url  }}/images/me_BluePages.png" />
+        <img src="{{  site.url  }}{{ site.baseurl }}/images/me_BluePages.png" />
         <h2>My name is Price Clark and I'm a developer</h2>
             <p>
             I'm an open-source enthusiast currently in school. I'm very interested in building things and learning new programming languages and tools.
@@ -27,7 +27,7 @@ layout: main
 
 <!--Begin Work Section -->
     <div id="work">
-        <a href="{{  site.url  }}/blog/index.html" ><h1>Blog</h1></a>
+        <a href="{{  site.url  }}{{ site.baseurl }}/blog/index.html" ><h1>Blog</h1></a>
         <div class="top-divider"></div>
           <div class="content">
           <div class="col col-mid">
@@ -74,32 +74,11 @@ layout: main
 <!--Begin Resume Section-->
     <div id="experience" >
 
-        <a href="{{  site.url  }}/resume/index.html" ><h1>Resume</h1></a>
+        <a href="{{  site.url  }}{{ site.baseurl }}/resume/index.html" ><h1>Resume</h1></a>
         <div class="top-divider"></div>
-        <div class="content">
+        <div id="content" class="content">
         {% include resume.html %}
         </div>
         <div class="bottom-divider"></div>
     </div>
 <!--End Resume Section-->
- <!-- The JavaScript -->
-        <script type="text/javascript">
-                $(function() {
-                $('#main-menu li a').bind('click',function(event){
-                    var $anchor = $(this);
-
-                    $('html, body').stop().animate({
-                        scrollTop: $($anchor.attr('href')).offset().top
-                    }, 1500,'easeInOutExpo');
-         }, 1500,'easeInOutExpo');
-
-                    event.preventDefault();
-                });
-            });
-
-                         $(document).ready(function(){
-                $("a[rel^='prettyPhoto']").prettyPhoto({social_tools:false, deeplinking: false});
-                        });
-
-        </script>
-
