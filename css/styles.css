@@ -16,6 +16,10 @@ a {color: white;}
 	overflow:auto;
 	padding-bottom:100px;
 }
+.wrapper{
+  word-wrap: break-word;
+  color: red;
+}
 
 /****************************************************/
 /* HEADER */
