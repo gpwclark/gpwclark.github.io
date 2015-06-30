@@ -1,0 +1,114 @@
+---
+title: Resume 
+date: 2015-05-27 19:01:10 
+layout: post
+permalink: /resume/
+---
+
+George Price W. Clark
+=====================
+
+----
+
+>  I am an aspiring developer with a growing list of projects and work
+>  experience. I like Linux, challenges, and learning. No bologna, I am
+>  very passionate about what I do.   
+[http://gpwclark.net](http://gpwclark.net/).
+
+----
+
+Education
+---------
+
+2010-2015 
+:   **BA, Computer Science and Economics**; The University of North Carolina at Chapel Hill 
+    * GPA 3.75
+    * Finance Tuition/COL through work on eBay
+
+Honors
+---------
+
+*  Phi Beta Kappa
+*  Dean’s list every semester
+*  Bronze Power Seller (eBay): $3000+ and 100+ transactions annually, 99.3% + feedback
+
+Experience
+----------
+
+**IBM  
+Software Group**
+:   **Eclipse Solutions and CLM Globalization Co-op**
+
+   **Jan 2014 - Jan 2015**
+
+* Develop tools/scripts to help automate work tasks (i.e. software builds, translation forms processing, automatic software installs) using Java, shell scripts, batch files, PHP, internal IBM APIs etc.
+
+* Edit and maintain new/old content for IBM Eclipse SDK website in PHP as well as making patches for the IBM Eclipse SDK
+
+* Collaborate with software developers and translators in 23+ countries to help globalize IBM's Collaborative Lifecycle Management/DevOps/Bluemix software
+
+**Purecountry  
+Weavers**
+:   **Sales Representative, Processing, Shipping/Stocking**
+
+   **Summers 2005-2011**
+
+* Cold calling/Customer Service
+
+* Trade Show Sales Representative - Las Vegas Gift Show, and Atlanta Gift Show 
+  each year and others in Frankfurt, Boston, High Point, NC, and Paris.
+
+Leadership Experience
+----------
+
+**Collegiatecrazy  
+ eBay Business**
+:   **Owner and Manager**
+
+   **2007 - 2015**
+
+* Manage eBay business store front: typical # of auctions approx. 250
+
+* Duties include photography, customer service on a day to day basis, inventory
+  logistics, data management, over summers managed 1-2 employees to assist in 
+  inventory management/acquisition
+
+Technical Experience
+--------------------
+
+**My Cool Side Projects**
+:   System Admin / Developer / Hobbyist
+
+    * My partner and I operate a development organization we call the University
+      of Antarctica. Check out our website 
+      [uofantarctica.com](http://uofantarctica.com/). Additionally, see our 
+      organization's GitHub page 
+      [github.com/university-of-antarctica](https://github.com/university-of-antarctica).
+    * While most of my projects are done through the University of Antarctica, 
+      I still do some development on my own, see my GitHub page 
+      [github.com/gpwclark](https://github.com/gpwclark/).
+    * I use personal and cloud-hosted linux machines (Gentoo, Fedora, Debian) 
+      to do development and infrastructure experimentation. I utilize 
+      GitHub, Docker, Eclipse-Orion, Node.js, and 
+      Nginx tons more to hack around..
+
+Programming Languages
+:   Java, C++, C, Python, PHP, JavaScript, HTML, CSS, SAS, SPSS, SQL, Linux/System Admin, Customer service/Accounts management, Qualtrics, Microsoft Office/Libre Office   
+
+Relevant Coursework
+:   Statistics, Econometrics, Databases, Web Programming, Robotics, Data Structures, Computer Organization, Micro & Macroeconomics, Multivariate Calculus, Research Methods, Independent Study in Management & Psychology, Organizational Behavior 
+
+Imporant 
+--------
+
+* Human Languages:
+
+     * English (native speaker)
+     * Intermediate Spanish (Lived in Argentina Sep 2014 - Dec 2014. 
+
+* Co-Chancellor at [the University of Antarctica](http://uofantarctica.com/)
+
+----
+
+> <gpwclark ~*[at]*~ gmail.com> • 23 years old\
+> http://gpwclark.net • https://github.com/university-of-antarctica • http://uofantarctica.com
