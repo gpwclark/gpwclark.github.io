@@ -9,16 +9,13 @@ h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}
 h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#6a6969;}
 ul{margin:0px; padding:0px;}
 a {color: white;}
+
 #container{
-	width:950px;
-	margin:0px auto 300px auto;
+//	width:950px;
+//	margin:0px auto 300px auto;
 	background:url(../images/body-bg.png);
 	overflow:auto;
-	padding-bottom:100px;
-}
-.wrapper{
-  word-wrap: break-word;
-  color: red;
+//	padding-bottom:100px;
 }
 
 /****************************************************/
