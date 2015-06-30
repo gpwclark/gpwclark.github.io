@@ -1,15 +1,30 @@
 <header class="site-header">
-<div id="header">
 
-        <span id="logo"><a href="{{ site.url  }}"><h1><tt>Price Clark</tt></h1></a></span>
-<!--
-        GET A GPWC LOGO
--->
-        <ul id="main-menu">
-        <li><a href="{{  site.url  }}/index.html">Home</a></li>
-        <li><a href="{{  site.url  }}/blog/index.html">Blog</a></li>
-        <li><a href="{{  site.url  }}/resume/index.html">Resume</a></li>
-    </ul>
-</div>
 
+<div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a id = "logo" class="navbar-brand" href="{{ site.url  }}">Price Clark's Site</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul id="main-menu" class="nav navbar-nav">
+                <li><a href="{{  site.url  }}">Home</a></li>
+                <li><a href="{{  site.url  }}/blog/index.html">Blog</a></li>
+                <li><a href="{{  site.url  }}/resume/index.html">Resume</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
 </header>
