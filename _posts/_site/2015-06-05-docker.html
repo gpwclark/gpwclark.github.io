@@ -1,0 +1,26 @@
+<h2 id="overview">Overview</h2>
+<p>I recently took a vacation a few days after I had loaded all of my things 
+into storage… because I’m moving. Sadly, it seems I packed the charger for
+my laptop so this vacation was to be Fedora-less. Luckily I have a 6 year old
+Mac laptop (with a chager_ that could get the job done. After messing around
+with homebrew for a while, I decided it would be much smarter for me to just
+start using docker. The vision is simple, I’m working on my personal website
+<a href="http://github.com/gpwclark/gpwclark/github.io">gpwclark.github.io</a> and I want
+a Dockerfile to live in this repo that will make my life as a developer really
+really easy. When developing a jekyll site you typically run the command:
+<code>
+jekyll serve --watch
+</code>
+This command puts your Jekyll site on localhost:4000. If you change any of the
+files it will automtically rebuild the site. I want any computer with docker
+to be able to do this automatically. That means on any computer I could clone 
+my repository, build the Docker image, and then type:
+<code>
+docker run myblog
+</code>
+and my site would be up on localhost:4000.</p>
+
+<h2 id="intro">Intro</h2>
+
+<h3 id="setup">Setup</h3>
+

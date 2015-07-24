@@ -1,8 +1,7 @@
 ---
-layout: post
 title: eCross - Psychology Paradigm for ego depletion 
+layout: post
 date: 2015-05-19 01:10:01 
-
 ---
 
    

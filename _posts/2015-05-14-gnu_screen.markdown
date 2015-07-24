@@ -1,8 +1,7 @@
 ---
-layout: post 
 title: GNU Screen
 date: 2015-05-14 02:23:17
-
+layout: post 
 ---
 
 I have recently found myself hanging out in the terminal window a lot more. As a result, I find myself wanting to hang out in two terminal windows at the same time. Much in the same way that you may want many browser windows, each with N tabs. Screen allows you to create multiple sessions (which are 'like' browser windows) and populate each session with as many windows (which are 'like' tabs). As a bonus, screen allows you to 'detach' sessions (similar to minimizing a window, but more persistent) which in turn can be 're-attached' later in order to resume whatever processes were running in the screen when it was detached. This is pretty supreme, especially if you're ssh-ing all over the place, doing important scp's, etc. etc.
