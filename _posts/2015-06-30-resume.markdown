@@ -5,110 +5,104 @@ layout: post
 permalink: /resume/
 ---
 
-George Price W. Clark
-=====================
-
-----
-
->  I am an aspiring developer with a growing list of projects and work
->  experience. I like Linux, challenges, and learning. No bologna, I am
->  very passionate about what I do.   
-[http://gpwclark.net](http://gpwclark.net/).
-
-----
-
-Education
----------
-
-2010-2015 
-:   **BA, Computer Science and Economics**; The University of North Carolina at Chapel Hill 
-    * GPA 3.75
-    * Finance Tuition/COL through work on eBay
-
-Honors
----------
-
-*  Phi Beta Kappa
-*  Dean’s list every semester
-*  Bronze Power Seller (eBay): $3000+ and 100+ transactions annually, 99.3% + feedback
-
-Experience
-----------
-
-**IBM  
-Software Group**
-:   **Eclipse Solutions and CLM Globalization Co-op**
-
-   **Jan 2014 - Jan 2015**
-
-* Develop tools/scripts to help automate work tasks (i.e. software builds, translation forms processing, automatic software installs) using Java, shell scripts, batch files, PHP, internal IBM APIs etc.
-
-* Edit and maintain new/old content for IBM Eclipse SDK website in PHP as well as making patches for the IBM Eclipse SDK
-
-* Collaborate with software developers and translators in 23+ countries to help globalize IBM's Collaborative Lifecycle Management/DevOps/Bluemix software
-
-**Purecountry  
-Weavers**
-:   **Sales Representative, Processing, Shipping/Stocking**
-
-   **Summers 2005-2011**
-
-* Cold calling/Customer Service
-
-* Trade Show Sales Representative - Las Vegas Gift Show, and Atlanta Gift Show 
-  each year and others in Frankfurt, Boston, High Point, NC, and Paris.
-
-Leadership Experience
-----------
-
-**Collegiatecrazy  
- eBay Business**
-:   **Owner and Manager**
-
-   **2007 - 2015**
-
-* Manage eBay business store front: typical # of auctions approx. 250
-
-* Duties include photography, customer service on a day to day basis, inventory
-  logistics, data management, over summers managed 1-2 employees to assist in 
-  inventory management/acquisition
-
-Technical Experience
---------------------
-
-**My Cool Side Projects**
-:   System Admin / Developer / Hobbyist
-
-    * My partner and I operate a development organization we call the University
-      of Antarctica. Check out our website 
-      [uofantarctica.com](http://uofantarctica.com/). Additionally, see our 
-      organization's GitHub page 
-      [github.com/university-of-antarctica](https://github.com/university-of-antarctica).
-    * While most of my projects are done through the University of Antarctica, 
-      I still do some development on my own, see my GitHub page 
-      [github.com/gpwclark](https://github.com/gpwclark/).
-    * I use personal and cloud-hosted linux machines (Gentoo, Fedora, Debian) 
-      to do development and infrastructure experimentation. I utilize 
-      GitHub, Docker, Eclipse-Orion, Node.js, and 
-      Nginx tons more to hack around..
-
-Programming Languages
-:   Java, C++, C, Python, PHP, JavaScript, HTML, CSS, SAS, SPSS, SQL, Linux/System Admin, Customer service/Accounts management, Qualtrics, Microsoft Office/Libre Office   
-
-Relevant Coursework
-:   Statistics, Econometrics, Databases, Web Programming, Robotics, Data Structures, Computer Organization, Micro & Macroeconomics, Multivariate Calculus, Research Methods, Independent Study in Management & Psychology, Organizational Behavior 
-
-Imporant 
---------
-
-* Human Languages:
-
-     * English (native speaker)
-     * Intermediate Spanish (Lived in Argentina Sep 2014 - Dec 2014. 
-
-* Co-Chancellor at [the University of Antarctica](http://uofantarctica.com/)
-
-----
-
-> <gpwclark ~*[at]*~ gmail.com> • 23 years old\
-> http://gpwclark.net • https://github.com/university-of-antarctica • http://uofantarctica.com
+<h1 id="price-w.-clark">Price W. Clark</h1>
+<hr />
+<blockquote>
+<p>Aspiring developer with IBM programming experience. Consistently relied upon for challenging projects and problems. Innovative, affable, and creative. Fluent in Linux; enjoy challenges and hard work. <a href="http://gpwclark.net/">http://gpwclark.net</a>.</p>
+</blockquote>
+<hr />
+<h2 id="education">Education</h2>
+<dl>
+<dt><strong>UNC Chapel Hill</strong></dt>
+<dd><strong>Bachelor of Arts in Computer Science</strong>
+</dd>
+<dd><strong>Bachelor of Arts in Economics</strong>
+</dd>
+<dd>Graduation December 2015 - GPA 3.75
+</dd>
+<dd>Finance tuition/cost of living through work on eBay
+</dd>
+</dl>
+<h2 id="honors">Honors</h2>
+<ul>
+<li>Phi Beta Kappa, initiated 2009</li>
+<li>Dean’s list each semester</li>
+<li>Bronze Power Seller on eBay: $3000+ and 100+ transactions annually, 99.3% + feedback</li>
+</ul>
+<h2 id="professional-experience">Professional Experience</h2>
+<dl>
+<dt><strong>IBM Software Group</strong></dt>
+<dd><strong>Eclipse Solutions and CLM Globalization Co-op</strong>
+</dd>
+<dd>Jan 2014 - Jan 2015
+</dd>
+</dl>
+<ul>
+<li><p>Developed tools and scripts to automate work tasks such as software builds, translation forms processing, automatic software installs, shell scripts, batch files, PHP, and internal IBM API/services.</p></li>
+<li><p>Helped maintain the IBM Eclipse SDK by aiding in bug resolution and subsequent patch generation as well as maintained content for the IBM Eclipse SDK website.</p></li>
+<li><p>Collaborated with software developers and translators in 23+ countries to help globalize the IBM Collaborative Lifecycle Management/DevOps/Bluemix software</p></li>
+</ul>
+<dl>
+<dt><strong>PCI</strong></dt>
+<dd><strong>Textile Manufacturer Sales Representative, Processing, Shipping/Stocking, Programmer</strong>
+</dd>
+<dd>Summer Intern 2005-2015
+</dd>
+</dl>
+<ul>
+<li><p>Customer Service Interface</p></li>
+<li><p>Trade Show Sales Representative - Las Vegas, Atlanta, Frankfurt, Boston, High Point, and Paris.</p></li>
+<li><p>Created iOS/Android application so customers can track their orders in real time.</p></li>
+</ul>
+<dl>
+<dt><strong>Fullbridge Program</strong></dt>
+<dd>June 2013
+</dd>
+</dl>
+<ul>
+<li>Selected to participate in a rigorous, 160-hour business boot camp to gain practical experience, learn key business tools, and develop professional behavior traits including disagreeing effectively, being forward looking, and managing time well.</li>
+<li>Coached by business practitioners and Harvard Business School graduates to gain proficiency in financial analysis, working in teams, and business analysis.</li>
+</ul>
+<h2 id="leadership-experience">Leadership Experience</h2>
+<dl>
+<dt><strong>Collegiatecrazy - eBay Business</strong></dt>
+<dd><strong>Owner and Manager</strong>
+</dd>
+<dd>2007 - 2015
+</dd>
+</dl>
+<ul>
+<li><p>I purchased overruns and seconds from a textile mill, added them to eBay, and used a consignment center to do my shipping while I was in college.</p></li>
+<li><p>Managed eBay business store front: typical number of auctions approximately 250</p></li>
+<li><p>Duties include photography, customer service on a day to day basis, inventory logistics, data management, over summers managed one to two employees to assist in inventory management and acquisition</p></li>
+</ul>
+<h2 id="technical-experience">Technical Experience</h2>
+<dl>
+<dt><strong>Core Projects</strong></dt>
+<dd><strong>System Adminstration for University of Antarctica / Developer / Hobbyist</strong>
+</dd>
+</dl>
+<ul>
+<li><p>My associate and I operate a development organization called the University of Antarctica. It is a collaborative pair programming effort of ours to work on ideas we have and practice programming individually and as a team. Website: <a href="http://uofantarctica.com/">uofantarctica.com</a>. Organizational GitHub page: <a href="https://github.com/university-of-antarctica">github.com/university-of-antarctica</a>.</p></li>
+<li><p>For individual development, see my GitHub page <a href="https://github.com/gpwclark/">github.com/gpwclark</a>.</p></li>
+<li><p>Manage bare-metal and cloud-hosted linux machines (Debian, Fedora, Gentoo) for development and infrastructure experimentation.</p></li>
+</ul>
+<dl>
+<dt><strong>Programming Languages</strong></dt>
+<dd>Java, C++, C, Python, PHP, JavaScript, HTML, CSS, SAS, SPSS, SQL, Linux/System Admin, Customer service/Accounts management, Qualtrics, Microsoft Office/Libre Office
+</dd>
+</dl>
+<p><strong>Human Languages</strong> : English - First Language, Intermediate Spanish - Worked in Argentina September 2014 - December 2014</p>
+<dl>
+<dt><strong>Additional Coursework</strong></dt>
+<dd>Statistics, Econometrics, Multivariate Calculus, Research Methods, Independent Study in Management &amp; Psychology, Organizational Behavior
+</dd>
+</dl>
+<h2 id="interests">Interests</h2>
+<ul>
+<li>My interests include Tennis, Running, Intramural Frisbee, Hypnotism, Homebrewing, and Vegetarian Cooking.</li>
+</ul>
+<hr />
+<blockquote>
+<p><gpwclark ~*[at]*~ gmail.com><br />http://gpwclark.net • https://github.com/university-of-antarctica • http://uofantarctica.com</p>
+</blockquote>

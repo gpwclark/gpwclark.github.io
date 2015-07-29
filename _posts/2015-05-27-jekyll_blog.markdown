@@ -22,32 +22,30 @@ $ cd myblog
 ```
 
 If you run the command:
+
 ```
 tree ./ # you will see...
 
-./
-├── about.md
-├── _config.yml
-├── css
-│   └── main.scss
-├── feed.xml
-├── _includes
-│   ├── footer.html
-│   ├── header.html
-│   └── head.html
-├── index.html
-├── _layouts
-│   ├── default.html
-│   ├── page.html
-│   └── post.html
-├── LICENSE
-├── _posts
-│   └── 2015-05-26-welcome-to-jekyll.markdown
-├── README.md
-└── _sass
-    ├── _base.scss
-        ├── _layout.scss
-            └── _syntax-highlighting.scss
+|-- _config.yml
+|-- _includes
+|   |-- footer.html
+|   |-- head.html
+|   `-- header.html
+|-- _layouts
+|   |-- default.html
+|   |-- page.html
+|   `-- post.html
+|-- _posts
+|   `-- 2015-07-29-welcome-to-jekyll.markdown
+|-- _sass
+|   |-- _base.scss
+|   |-- _layout.scss
+|   `-- _syntax-highlighting.scss
+|-- about.md
+|-- css
+|   `-- main.scss
+|-- feed.xml
+`-- index.html
 
 ```
 
@@ -61,26 +59,9 @@ directory, it then applies a layout, and can directly include text from any file
 
 ```
 jekyll build #this compiles your site as it is to the _site directory
-tree _site
-
-_site
-├── about
-│   └── index.html
-├── css
-│   └── main.css
-├── feed.xml
-├── index.html
-├── jekyll
-│   └── update
-│       └── 2015
-│           └── 05
-│               └── 26
-│                   └── welcome-to-jekyll.html
-├── LICENSE
-└── README.md
 ```
 
-As you can see every file and folder that does not have an underscore prepended to it appeared on the _site directory. Understanding what happened to index.html and about.md will fully explain how jekyll works. Jekyll starts with a layout. The default layout is simple:
+Every file and folder that does not have an underscore prepended to it appeared on the _site directory. Understanding what happened to index.html and about.md will fully explain how jekyll works. Jekyll starts with a layout. The default layout is simple:
 
 ```
 {% raw %}
