@@ -1,8 +1,45 @@
 body{
 	background: url(../images/page-bg.jpg);
+	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
   background-color: white;
 }
+#bootstrap-overrides{
+  color: white;
+}
+h1{font: 400 58px/60px 'Bree Serif', Georgia, serif;}
+h2{font: 400 18px/22px 'Bree Serif', Georgia, serif;}
+h3{font: 400 14px/16px 'Bree Serif', Georgia, serif;}
+a {color: blue;}
+
 #container{
 	background: url(../images/body-bg.png);
+	overflow:auto;
 }
 
+/****************************************************
+/* ABOUT SECTION */
+/****************************************************/
+
+#about #top-social{float:right; padding-top:62px;}
+#about #top-social li{float:left; list-style:none; margin-left:10px;}
+#about #top-social .uant{
+	text-indent:-9999px; 
+	display:block; 
+	width:26px; 
+	height:26px; 
+	background:url(../images/sm-uant-icon.png) no-repeat;
+}
+#about #top-social .github{
+	text-indent:-9999px; 
+	display:block; 
+	width:26px; 
+	height:26px; 
+	background:url(../images/sm-github-icon.png) no-repeat;
+}
+#about #top-social .linkedin{
+	text-indent:-9999px; 
+	display:block; 
+	width:26px; 
+	height:26px; 
+	background:url(../images/sm-linkedin-icon.png) no-repeat;
+}

@@ -1,0 +1,8 @@
+body{
+	background: url(../images/page-bg.jpg);
+  background-color: white;
+}
+#container{
+	background: url(../images/body-bg.png);
+}
+
