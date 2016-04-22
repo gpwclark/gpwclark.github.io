@@ -9,5 +9,3 @@ github_username: gpwclark
 # Build settings
 kramdown:                                                                                                    
   input: GFM
-url: "http://gpwclark.net"
-url: "http://localhost:4000"
